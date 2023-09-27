@@ -2,11 +2,15 @@
 ## Séance du 20 septembre 
 
 20/09
-Pas tout compris au projet mais plein d'idées et très exccitée de m'y mettre ! 
+Pas tout compris au projet mais plein d'idées et très excitée de m'y mettre ! 
 
 
 27/09
 Changement de salle YOUPI merci !
+J'ai installé la commande tree. 
+Pour afficher l'arbre taper : tree -d. Autre option à explorer en finissant l'exercice. 
+Utilisation de chemins longs et compliqués pour l'exercice. Essayer de refaire ça en simplifiant. 
+De toute façon besoin de recommencer j'ai perdu les fichiers .ann 
 
 
 
