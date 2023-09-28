@@ -12,5 +12,8 @@ Pour afficher l'arbre taper : tree -d. Autre option à explorer en finissant l'e
 Utilisation de chemins longs et compliqués pour l'exercice. Essayer de refaire ça en simplifiant. 
 De toute façon besoin de recommencer j'ai perdu les fichiers .ann 
 
+28/09 
+Exercice tri de fichiers fini ! 
+Exercice github aussi mais du coup besoin de le synchroniser...
 
 
