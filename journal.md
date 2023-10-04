@@ -14,4 +14,5 @@ Utilisation de chemins longs et compliqués pour l'exercice. De toute façon bes
 Exercice tri de fichiers fini avec des moyens beaucoup plus courts ! (et avec les fichiers .ann)
 Exercice github aussi mais du coup besoin de le synchroniser...
 Fait et réussi ! (on y retourne pour une dernière synchonisation)
-En route!!!
+En route!!! (depuis ordi)
+C'est bon !!! (depuis github) 
