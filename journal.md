@@ -16,3 +16,7 @@ Exercice github aussi mais du coup besoin de le synchroniser...
 Fait et réussi ! (on y retourne pour une dernière synchonisation)
 En route!!! (depuis ordi)
 C'est bon !!! (depuis github) 
+
+
+## 04/10
+Ajout de tag (j'avais oublié les "" ça va mieux marcher maintenant)
