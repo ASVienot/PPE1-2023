@@ -22,3 +22,5 @@ Ajout de tag (j'avais oublié les "" ça va mieux marcher maintenant)
 
 # séance 3
 
+I AM ERROR !!!!!!!!
+
