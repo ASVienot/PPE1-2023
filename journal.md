@@ -20,3 +20,5 @@ Ajout de tag (j'avais oublié les "" ça va mieux marcher maintenant)
 
 ## 04/10
 
+# séance 3
+
