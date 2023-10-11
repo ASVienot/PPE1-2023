@@ -26,4 +26,6 @@ I AM ERROR !!!!!!!!
 
 ## 11/09
 
+Pas tout compris mal compris la fiche td 
+
 
