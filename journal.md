@@ -28,4 +28,6 @@ I AM ERROR !!!!!!!!
 
 Pas tout compris mal compris la fiche td 
 
+cat ./201*/*/* | egrep "Location" | cut --f 3 |sort | uniq -c | sort -nr | head
+
 
