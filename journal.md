@@ -77,8 +77,19 @@ echo "fin de programme"
 ```
 Utiliser -z à la place de -n doit inverser les arguments
 
+> Pour le projet
+commandes interessantes
+`lynx -nolist -dump plurital.org`
+`linx -dump plurital.org`
+`lynx -listonly -dump plurital.org`
+
+essayer les options de la commande `curl`
+
+
 #### Ne pas oublier
 Sous Linux tout est fichier
 Bash pense que tout est texte Attention aux nombres
 Attention aux espaces (toujours dans les crochet)
+
+Ctrl+U => Ouvrir Html d'une page
 
