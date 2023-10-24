@@ -36,6 +36,7 @@ Pas oublier le `chmod +x script`
 Exos slide 24, 26, 29
 cat ./201*/*/* | egrep "Location" | cut --f 3 |sort | uniq -c | sort -nr | head
 
+
 ### Slide 24:
 
 ### Slide 26:
@@ -84,6 +85,17 @@ commandes interessantes
 `lynx -listonly -dump plurital.org`
 
 essayer les options de la commande `curl`
+
+
+# Préparation S6  
+Les scripts ne marchent pas bien 
+Je ne comprend pas très bien les exercices 
+Je reprendrais les deux derniers TD pendant les vacances mais cette semaine je n'ai pas le temps 
+MAIS réussi a jouer avec les git commits / faire git dans vs code / créer un script sans les slides sous les yeux
+J'ai jouer avec controle U dans la semaine et essais de lynx 
+
+## S6. 25/10 
+
 
 
 #### Ne pas oublier
