@@ -96,12 +96,31 @@ J'ai jouer avec controle U dans la semaine et essais de lynx
 
 ## S6. 25/10 
 
-
+1. écriture de la chaine de traitement 
+2. écrire sortie tableau 
+Mini-projet 
 
 #### Ne pas oublier
 Sous Linux tout est fichier
 Bash pense que tout est texte Attention aux nombres
 Attention aux espaces (toujours dans les crochet)
+$ = affecte la valeur / récupère la valeur 
+le séparateur par tab `-e \t`
+
 
 Ctrl+U => Ouvrir Html d'une page
+
+
+# PROJET 
+50 liens 
+trois langues 
+site web (le plus important c'est liraita fonctionalité)
+200 = pas d'erreurs 
+Encodage doit être en UTF-8 
+mot peut être polysémique mais attention aux langues 
+
+une partie sur ce à quoi on s'attend 
+Pas besoin de grosse annalyse doit être motivée 
+
+Premiere ligne qui commence par HHTTP 
 
