@@ -29,7 +29,7 @@ En cas de soucis git reset --hard
 Installer peut-être un éditeur de texte dans le terminal (nano/micro?)
 
 
-# Préparation S5
+## Préparation S5
 
 Appeler le scrit avec `bash` !
 Pas oublier le `chmod +x script`
@@ -87,7 +87,7 @@ commandes interessantes
 essayer les options de la commande `curl`
 
 
-# Préparation S6  
+## Préparation S6  
 Les scripts ne marchent pas bien 
 Je ne comprend pas très bien les exercices 
 Je reprendrais les deux derniers TD pendant les vacances mais cette semaine je n'ai pas le temps 
@@ -99,6 +99,25 @@ J'ai jouer avec controle U dans la semaine et essais de lynx
 1. écriture de la chaine de traitement 
 2. écrire sortie tableau 
 Mini-projet 
+
+
+## Vacances Plan 
+Quelques difficultés depuis le début de l'année. 
+- Remplir le journal de tout ce que j'ai oublié 
+- finir les scripts 
+- avancer mini-projet
+- trouver le mot avec le groupe  
+- Fiche dans mon cahier guide 
+    - git FAIT !
+    - linux / bash FAIT !
+    - stdin /stdout 
+    - script 
+    - lynx 
+
+### exos vacances 
+MIni projet: 
+
+
 
 #### Ne pas oublier
 Sous Linux tout est fichier
