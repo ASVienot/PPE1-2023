@@ -110,14 +110,21 @@ Quelques difficultés depuis le début de l'année.
 - Fiche dans mon cahier guide 
     - git FAIT !
     - linux / bash FAIT !
-    - stdin /stdout 
-    - script 
-    - lynx 
+    - stdin /stdout FAIT !
+    - script / début ...
+    - lynx / bon pas eu le temps en fait 
 
 ### exos vacances 
     Mini projet: 
 Soucis: mon terminal ne voulait plus ouvrir alors que ça marchait pendant le cours 
 solution: bidouillage paramètre avec Pauline (dans properties)
+Pour les Urls il manque le début (https://) code erreur : 301
+Code 404 parce qu'il manque un accent 
+et 502 je pense que je ne peux rien faire 
+
+Bon la veille du rendu forcèment les commandes qui marchaient individuellement ne marchent plus ensemble et bash ne reconnait plus le script 
+La bidouille faite avec Pauline depuis properties n'est plus le soucis 
+Je vais quand même le commit sans avoir pu revérifier si il marchait
 
 
 #### Ne pas oublier
