@@ -1,16 +1,17 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 urlfile=$1
 
 if [ $# -ne 1 ]
-do:
+then
 	echo "un argument attendu exactement"
 	exit
-done:
+fi
+#ligne de vérification si on a bien un argument
 
-
-if [-f $urlfile]
+if [ -f $urlfile ]
 	then
-		echo ""
+		echo "" 
+		# ou echo "le fichier existe"
 	else
 		echo "on attend un fichier qui existe"
 		exit
@@ -27,4 +28,4 @@ do
 	# affiche avec une tab entre le num_ligne l'URL et le status de l'url
 	num_ligne=$(expr $num_ligne + 1)
 	#le séparateur par tab -e \t
-done < "urls/fr.txt"
+done < "../urls/fr.txt"

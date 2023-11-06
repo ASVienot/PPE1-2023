@@ -115,8 +115,9 @@ Quelques difficultés depuis le début de l'année.
     - lynx 
 
 ### exos vacances 
-MIni projet: 
-
+    Mini projet: 
+Soucis: mon terminal ne voulait plus ouvrir alors que ça marchait pendant le cours 
+solution: bidouillage paramètre avec Pauline (dans properties)
 
 
 #### Ne pas oublier
@@ -133,7 +134,7 @@ Ctrl+U => Ouvrir Html d'une page
 # PROJET 
 50 liens 
 trois langues 
-site web (le plus important c'est liraita fonctionalité)
+site web (le plus important c'est liraita fonctionalité) (je sais plus ce que ça veut dire à CHERCHER !!!!)
 200 = pas d'erreurs 
 Encodage doit être en UTF-8 
 mot peut être polysémique mais attention aux langues 
