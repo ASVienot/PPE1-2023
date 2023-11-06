@@ -118,14 +118,14 @@ Quelques difficultés depuis le début de l'année.
     Mini projet: 
 Soucis: mon terminal ne voulait plus ouvrir alors que ça marchait pendant le cours 
 solution: bidouillage paramètre avec Pauline (dans properties)
-Pour les Urls il manque le début (https://) code erreur : 301
-Code 404 parce qu'il manque un accent 
+Pour les Urls il manque le début (https://) code erreur : 301 (début de code pour le rajouter sur les urls a qui cela manque mais pas concluant du coup mis en commentaire il me manque un bout de quelque chosse mais je ne sais pas quoi (commande sed ou les mettre dans un nouveau fichier corrigé?))
+Code 404 parce qu'il manque un accent (éssayé de bidouiller mais pas trop sur de savoir comment)
 et 502 je pense que je ne peux rien faire 
 
 Bon la veille du rendu forcèment les commandes qui marchaient individuellement ne marchent plus ensemble et bash ne reconnait plus le script 
 La bidouille faite avec Pauline depuis properties n'est plus le soucis 
 Je vais quand même le commit sans avoir pu revérifier si il marchait
-
+Autant pour moi ça remarche très bien j'ai résolu les erreurs de chemins (ouverture du terminal au mauvais endroit) et une erreur de notation de fonction (reminder de leur donné le même nom à chaque ligne sinon on s'emmèle les pinceaux)
 
 #### Ne pas oublier
 Sous Linux tout est fichier
@@ -139,6 +139,8 @@ Ctrl+U => Ouvrir Html d'une page
 
 
 # PROJET 
+Pauline et Siman; Anglais, Français et chinois
+Mot = Alcohol ou jeux vidéo (peut-être soucis avec le mot composé) 
 50 liens 
 trois langues 
 site web (le plus important c'est liraita fonctionalité) (je sais plus ce que ça veut dire à CHERCHER !!!!)
