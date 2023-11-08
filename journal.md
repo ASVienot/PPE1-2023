@@ -127,18 +127,32 @@ La bidouille faite avec Pauline depuis properties n'est plus le soucis
 Je vais quand même le commit sans avoir pu revérifier si il marchait
 Autant pour moi ça remarche très bien j'ai résolu les erreurs de chemins (ouverture du terminal au mauvais endroit) et une erreur de notation de fonction (reminder de leur donné le même nom à chaque ligne sinon on s'emmèle les pinceaux)
 
+## S6 
+Correction du script 
+Présentation de l'exo supplémentaire 
+-> Stats sur Candide 
+document pas très propre doit le préparer 
+
+
+## exos supp 
+
+
+
+
+
+
 #### Ne pas oublier
 Sous Linux tout est fichier
 Bash pense que tout est texte Attention aux nombres
 Attention aux espaces (toujours dans les crochet)
 $ = affecte la valeur / récupère la valeur 
-le séparateur par tab `-e \t`
+le séparateur par tab `-e ...\t`
 
 
 Ctrl+U => Ouvrir Html d'une page
 
 
-# PROJET 
+## PROJET 
 Pauline et Siman; Anglais, Français et chinois
 Mot = Alcohol ou jeux vidéo (peut-être soucis avec le mot composé) 
 50 liens 
