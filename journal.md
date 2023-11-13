@@ -134,7 +134,14 @@ Présentation de l'exo supplémentaire
 document pas très propre doit le préparer 
 
 
-## exos supp 
+## exos 13/11 
+Peu de succès avec les exercices cette semaine 
+Début de l'exercice 2 fait mais je n'ai pas compris complétement les consignes. (Question des arguments optionels ou non) 
+Pour la liste de fréquence des bigrames, après avoir éssayé plusieur commandes je n'ai plus le temps de terminer avant d'envoyer mon tag. 
+Je rééssayerai ce soir mais avex les examens cette semaine je vais surtout attendre la correction 
+En revanche, j'ai fait ma fiche sur html et ça j'ai compris le fonctionnement ! 
+
+
 
 
 
