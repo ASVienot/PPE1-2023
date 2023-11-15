@@ -1,0 +1,23 @@
+
+<html>
+	<head> 
+		<meta charset="UTF-8" >
+	</head>
+	<body>
+		<table>
+			<tr><th>ligne</th><th>url</th><th>code HTTP</th><th>encodage</th></tr>
+1	./mini-projet/urls/fr.txt	200	
+2	./mini-projet/urls/fr.txt	200	
+3	./mini-projet/urls/fr.txt	200	
+4	./mini-projet/urls/fr.txt	200	
+5	./mini-projet/urls/fr.txt	404	
+6	./mini-projet/urls/fr.txt	502	
+<tr>
+		<th>7</th>
+		<th>/th>
+		<th>502</th>
+		<th></th>
+	</tr>
+ 	</table>
+	</body>
+</html>
