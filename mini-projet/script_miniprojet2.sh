@@ -1,74 +1,19 @@
 #!/usr/bin/env bash
-fichier=$1
 
-if [ $# -ne 1 ]
-then
-	echo "un argument attendu exactement"
-	exit
-fi
-#ligne de vérification si on a bien un argument
-if [ -f $fichier ]
-	then
-		echo "" 
-		# ou echo "le fichier existe"
-	else
-		echo "on attend un fichier qui existe"
-		exit
-fi
 #vérifie qu'on a un seul argument et que le fichier existe
+if [! -f "$1"]
+# si non est fichier premier argument 
+then 
+	echo "text2colonne: Pas de fichier donné en argument"
+	exit 1 
+fi
+
+fichier = "$1"
+#$1 = le premier argument ? 
+
 
 #formatage du texte 
-
+cat "$fichier" | grep -P -o  '\p{Latin}' | tr '[:upper:]' '[:lower:]' | tr 'éàùôêèîû' 'ÉÀÙÔÊÈÎÛ' | less
 # 1 mot par ligne 
-
-#pas de ponctuation + tout en minuscule 
-
-while read -r TEXT
-do 
-	grep -f
-
-	echo #nom de fichier
-done < "./candide.txt"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-if [ $# -ne 1 ]
-then
-	echo "un argument attendu exactement"
-	exit
-fi
-#ligne de vérification si on a bien un argument
-
-if [! -f $URLS ]
-	then
-		echo "On attend un fichier, pas un dossier" 
-	else
-		echo ""
-fi
+#pas de ponctuation + tout en minuscule  
+#|lesss = que le début 
