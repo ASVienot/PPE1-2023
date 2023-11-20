@@ -141,10 +141,9 @@ Pour la liste de fréquence des bigrames, après avoir éssayé plusieur command
 Je rééssayerai ce soir mais avex les examens cette semaine je vais surtout attendre la correction 
 En revanche, j'ai fait ma fiche sur html et ça j'ai compris le fonctionnement ! 
 
-
-
-
-
+## exos slides html 
+Rajout des balises html avant la boucle (créer tableau et co) et après pour fermer celles avant le tableau 
+pour les balises du tableau dans la ligne de tableau existante 
 
 
 
