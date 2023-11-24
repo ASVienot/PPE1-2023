@@ -146,6 +146,12 @@ Rajout des balises html avant la boucle (créer tableau et co) et après pour fe
 pour les balises du tableau dans la ligne de tableau existante 
 
 
+## séance 7 
+Travail sur le projet de groupe top 
+
+## exos projet 
+Liens finis
+script bien avancé 
 
 #### Ne pas oublier
 Sous Linux tout est fichier
@@ -173,3 +179,6 @@ Pas besoin de grosse annalyse doit être motivée
 
 Premiere ligne qui commence par HHTTP 
 
+- compter occurences de chaque mot dans les articles 
+- concordancier 
+- 4 colones à ajouter 
